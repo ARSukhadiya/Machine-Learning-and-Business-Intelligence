@@ -1,0 +1,17 @@
+Visualization:
+	- scatter plots	plt.scattles(x, y)
+	- line plots	plt.plot()
+	- box plots	plt.box()
+	- bar graph	plt.bar()
+	- Pie chart	plt.oie()
+
+	library: matlib
+
+
+Stochastic 
+
+Gradient Descent
+
+
+
+
